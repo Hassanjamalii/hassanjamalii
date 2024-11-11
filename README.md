@@ -1,4 +1,3 @@
-# Hi I'm Hassan!  
 ---
 -  :mag: Visit my [Portfolio Website](https://www.hassanjamali.com/) for more information.
 - ✍️ To get in touch, email me at [contact@hassanjamali.com](mailto:contact@hassanjamali.com).
